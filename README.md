@@ -1,2 +1,3 @@
 # Inventory Sistem
 Perancangan Sistem Informasi Pengolahan Data Barang Pada PT Bank Mandiri KCP Mayor Oking Cibinong
+Ruang lingkup penelitian ini mencakup pengolahan data barang terkait dengan keluar masuknya barang di PT. Bank Mandiri KCP Mayor Oking Cibinong Bogor. Fokus dari perancangan program dalam sistem informasi ini adalah pengolahan data barang, termasuk file master, barang masuk, barang keluar dan pembuatan laporan. Penting untuk dicatat bahwa hanya admin yang memiliki hak akses seperti mengelola barang masuk (barang terdaftar ataupun barang yang belum terdaftar ke dalam sistem), mengelola barang keluar, mengelola data peminta, dan mencetak laporan dalam sistem ini.
